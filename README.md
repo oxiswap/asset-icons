@@ -11,6 +11,7 @@ The icons in this repository are used to visually represent various assets withi
 - Each asset icon is stored in a separate folder under the `assets` directory.
 - The folder name corresponds to the asset's contract address in lowercase.
 - Inside each folder, the icon file should be named `logo.png`.
+- 200x200 is the recommended size for the icon.
 
 Example:
 
