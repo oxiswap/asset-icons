@@ -1,4 +1,4 @@
-# OxiSwap Token Icons
+# OxiSwap Asset Icons
 
 This repository contains asset icons for the OxiSwap interface. It provides a standardized way to store and access asset logos for use in the OxiSwap ecosystem.
 
